@@ -1,6 +1,6 @@
 {
   "name": "snapchat-downloader",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "A snapchat media urls scraper",
   "main": "index.js",
   "scripts": {
@@ -16,7 +16,7 @@
     "snapchat video scraper"
   ],
   "author": "Mohamed",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {
     "axios": "^0.25.0",
     "cheerio": "^1.0.0-rc.10"
