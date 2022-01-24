@@ -1,0 +1,32 @@
+{
+  "name": "snapchat-downloader",
+  "version": "1.0.1",
+  "description": "A snapchat media urls scraper",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "snapchat",
+    "snapchat downloader",
+    "snapchat scraper",
+    "snapachat media scraper",
+    "snapachat media downloader",
+    "snapchat video downloader",
+    "snapchat video scraper"
+  ],
+  "author": "Mohamed",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "cheerio": "^1.0.0-rc.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OnFireMohamed/snapchat-downloader"
+  },
+  "bugs": {
+    "url": "https://github.com/OnFireMohamed/snapchat-downloader/issues"
+  },
+  "homepage": "https://github.com/OnFireMohamed/snapchat-downloader#readme"
+}
