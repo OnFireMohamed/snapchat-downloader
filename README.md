@@ -1,3 +1,5 @@
+https://www.npmjs.com/package/snapchat-downloader
+
 # Installing
 ```sh
 npm install snapchat-downloader
